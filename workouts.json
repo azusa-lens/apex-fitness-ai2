@@ -1,0 +1,7 @@
+{
+  "beginner": ["Push ups - 10 reps", "Bodyweight squats - 15 reps", "Plank - 30 sec", "Jump rope - 1 min"],
+  "chest": ["Bench press", "Push ups", "Chest fly"],
+  "legs": ["Squats", "Lunges", "Leg press"],
+  "abs": ["Plank - 30 sec", "Crunches - 15 reps", "Mountain climbers - 30 sec"],
+  "weight_loss": ["Running - 10 min", "Burpees - 15 reps", "Jump squats - 12 reps"]
+}
